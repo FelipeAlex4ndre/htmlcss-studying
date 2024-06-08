@@ -1,0 +1,43 @@
+Curso: Desenvolvimento de Sites, Apps, e Games
+Módulo: Desenvolvimento de Sites I
+Aula 1
+Tema: HTML
+
+========================================================================
+
+O que vamos aprender neste módulo?
+	- Desenvolver websites utilizando tecnologias e linguagens como HTML, CSS e JavaScript.
+	- Módulos contém 20 aulas
+
+========================================================================
+
+O que é HTML? 
+r: HTML é uma linguagem utilizada para desenvolver a estrutura de um site. (OBS: HTML é a base da Internet); 
+
+HTML: Hypertext Markup Language (Linguagem de Marcação de Hipertexto)
+
+Formatos de arquivos HTML: html ou htm
+
+Onde podemos inserir o código HTML?
+	Bloco de Notas, NotePad++, Sublime, VS Code etc.
+
+========================================================================
+
+O que é Visual Studio Code?
+	É a IDE capaz de trabalhar com diversas linguagens de programação.
+	(IDE = Entegrated Development Environment)
+
+========================================================================
+Tag (marcação): Utilizadas para marcar onde as informações na página irão aparecer.
+
+Exemplo de uma estrutura de tag:
+	
+	<title> Meu Título </title>    
+  Abertura - Conteúdo - Fechamento
+========================================================================
+Regras com nomes de pastas e arquivos de um site:
+	- Evite usar acentos e caracteres especiais como ç ! @ % $. Ex: Coração, avião, site@site
+	- Evite nomes compostos. Por ex: meu site
+
+SEO - Tecnica utilizada para otimizar sites e utilizamos nas metags
+

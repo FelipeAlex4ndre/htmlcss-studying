@@ -1,0 +1,23 @@
+Curso: Desenvolvimento de Sites, Apps, e Games
+Módulo: Desenvolvimento de Sites I
+Aula 3
+Tema: HTML - Links
+
+========================================================================
+
+p*3>lorem(...)
+
+p = parágrafo
+*3 = quantidade de parágrafo
+>lorem = texto (qualquer texto para para qualquer quantidade de parágrafos. 
+OBS: todos os parágrafos terão o mesmo texto que foi colocado após o sinal '>')
+
+========================================================================
+
+Link absoluto (url absoluta)
+    - Link para acessar páginas externas da web.
+
+Link relativo (url relativa)
+    - Link que possibilita acessar páginas do próprio site.
+
+========================================================================

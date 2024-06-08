@@ -1,0 +1,22 @@
+Curso: Desenvolvimento de Sites, Apps, e Games
+Módulo: Desenvolvimento de Sites I
+Aula 5
+Tema: HTML - Tabelas, Listas e iframe
+
+========================================================================
+
+tr = table row (linha de tabela)
+th = table header (cabeçalho de tabela)
+td = table data (dados de tabela)
+
+========================================================================
+2 Tipos de Listas
+
+listas não-ordenadas
+listas ordenadas
+
+========================================================================
+
+ul = unordered list (listas não-ordenadas)
+ol = order list
+li = list item

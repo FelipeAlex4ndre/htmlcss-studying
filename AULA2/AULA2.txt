@@ -1,0 +1,35 @@
+Curso: Desenvolvimento de Sites, Apps, e Games
+Módulo: Desenvolvimento de Sites I
+Aula 2
+Tema: HTML
+
+========================================================================
+
+FORMATAÇÕES EM HTML:
+
+b = (BOLD) NEGRITO | Exemplo: <b></b>
+strong = (BOLD) NEGRITO (semântica) | Exemplo: <strong></strong>
+i = italic (Itálico) | Exemplo: <i></i>
+small = Pequeno | Exemplo: <small></small>
+hr = horizontal row (linha horizontal) | Exemplo: <hr>
+h1 = header 1 (Cabeçalho 1) | Exemplo: <h1></h1>
+br = break row (quebra de linha) | Exemplo: <br>
+u = underline (linha de baixo) | Exemplo: <u></u>
+del = delete (Deletar/Riscar) | Exemplo: <del></del>
+strike = mesma coisa que o del, porém está obsoleto.
+sup = Superscript Element (Elemento Subscrito)
+sub = Subscript Element (Elemento Sobrescrito)
+mark = Marcação
+
+========================================================================
+
+ELEMENTOS DE CITAÇÃO:
+
+abbr
+q
+address
+cite
+blockquote
+bdr dir = "rtl"
+
+========================================================================

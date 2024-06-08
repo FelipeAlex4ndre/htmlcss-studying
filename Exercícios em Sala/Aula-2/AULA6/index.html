@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body style="background-color: rgb(231, 229, 229);">
+    <h2>CADASTRO DE CLIENTES</h2>
+    <form>
+        <label for="nome">Nome completo:</label>
+        <input id="nome" type="text" placeholder="Digite seu nome completo!" required><br><br>
+
+        <label for="">Escolha seu sexo:</label><br>
+        <input id="masc" name="sexo" type="radio" value="masc">
+        <label for="cat">Masculino</label><br>
+
+        <input id="fem" name="sexo" type="radio" value="fem">
+        <label for="fem">Feminino</label><br>
+
+        <input id="outros" name="sexo" type="radio" value="outros">
+        <label for="outros">Outros</label><br><br>
+
+        <label for="tel">Telefone:</label>
+        <input id="tel" name="tel" type="number" value="tel" placeholder="(xx) xx xxxxx-xxxx"><br><br>
+
+        <label for="data">Data de nascimento:</label>
+        <input type="date" name="data" id="data"><br><br>
+
+        <label for="email">E-mail:</label>
+        <input type="email" name="email" id="email" placeholder="nome@email.com"><br><br>
+
+        <label for="senha">Senha:</label>
+        <input type="password" name="senha" id="senha" placeholder="Cadastre uma senha"><br><br>
+
+        <input type="submit" value="Enviar"> 
+        <button>Limpar</button>
+    </form>
+</body>
+</html>

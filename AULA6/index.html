@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body style="background-color: rgb(231, 229, 229);">
+    <h1>Formulário de Contato</h1>
+    <form action="arquivo.php" method="get">
+        <label for="nome">Nome:</label><br>
+        <input id="nome" type="text" placeholder="Digite seu nome aqui!" required><br><br>
+
+        <label for="sobrenome">Sobrenome:</label><br>
+        <input id="sobrenome" type="text" placeholder="Digite seu sobrenome aqui!"><br><br>
+
+        <label for="email">Email:</label><br>
+        <input id="email" type="email" placeholder="Digite seu email aqui!"><br><br>
+
+        <label for="senha">Senha:</label><br>
+        <input id="senha" type="password" placeholder="Digite seu senha aqui!"><br><br>
+
+        <label for="data">Data de nascimento:</label><br>
+        <input id="data" type="date" placeholder="Digite seu senha aqui!"><br><br>
+        
+        <hr>
+
+        <h1>Questionário</h1>
+
+        <h2>Qual é o seu animal de estimação?</h2>
+        <input id="cat" name="Animal" type="radio" value="Gato">
+        <label for="cat">Gato</label><br><br>
+
+        <input id="dog" name="Animal" type="radio" value="dog">
+        <label for="dog">Cachorro</label><br><br>
+
+        <input id="cockatiel" name="Animal" type="radio" value="cockatiel">
+        <label for="cockatiel">Calopsita</label><br><br>
+
+        <h2>O que você tem na sua casa?</h2>
+        <input id="item1" type="checkbox" name="item1" value="TV">
+        <label for="item1">TV</label><br><br>
+
+        <input id="item2" type="checkbox" name="item2" value="Geladeira">
+        <label for="item2">Geladeira</label><br><br>
+
+        <input id="item3" type="checkbox" name="item3" value="Computador">
+        <label for="item3">Computador</label><br><br>
+
+        <h2>Escolha sua cor favorita abaixo</h2>
+        <select>
+            <option selected disabled>Selecione uma cor</option>
+            <option value="azul">Azul</option>
+            <option value="vermelho">Vermelho</option>
+            <option value="amarelo">Amarelo</option>
+            <option value="verde">Verde</option>
+            <option value="rosa">Rosa</option>
+        </select><br><br>
+
+        <h2>Digite sua mensagem:</h2>
+        <textarea name="" id="" cols="45" rows="10" placeholder="Digite sua mensagem aqui!"></textarea><br><br>
+
+        <input type="submit" style="width: 350px;" value="Enviar"><br><br>
+
+        <button>Clique aqui</button>
+    </form>
+</body>
+</html>

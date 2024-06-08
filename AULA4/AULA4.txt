@@ -1,0 +1,8 @@
+Curso: Desenvolvimento de Sites, Apps, e Games
+Módulo: Desenvolvimento de Sites I
+Aula 3
+Tema: HTML - Imagens
+
+========================================================================
+
+Regras para Imagens
