@@ -1,0 +1,28 @@
+Módulo: Desenvolvimento Web I - Aula 1
+Tema: CSS
+
+=================================================
+
+O que é CSS?
+R: Cascading Style Sheets (Folha de Estilos em Cascata)
+
+CSS é uma linguagem web responsável pela estética do site
+
+A parte estética do site envolve por exemplo, cor de fundo, tamanho da fonte, espaçamento etc.
+
+=================================================
+
+De onde surgiu o CSS?
+R: Através do W3C.
+
+=================================================
+
+Formato de arquivos: .css
+
+=================================================
+
+3 maneiras de utilizar o CSS:
+
+    - CSS inline
+    - CSS interno
+    - CSS externo
