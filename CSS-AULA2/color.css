@@ -4,6 +4,7 @@ body {
 
 h1{
     color: white;
+    text-align: center;
 }
 
 p{
@@ -11,6 +12,10 @@ p{
 }
 
 .fundo{
-    height: 100px;
+    height: 300px;
     background-color: gray;
+    background-image: url(img/predio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
