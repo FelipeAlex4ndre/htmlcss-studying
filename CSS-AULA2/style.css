@@ -1,0 +1,35 @@
+body {
+    background: #d6fee9;
+}
+
+h1 {
+    color: #1e402f;
+}
+
+h2 {
+    color: #3c805e;
+}
+
+#principal {
+    text-align: center;
+    background: #3c805e;
+    color: white
+}
+
+.basico{
+    color: #3c805e;
+}
+
+.intermediario{
+    color: #80793c;
+}
+
+.avancado{
+    color: #803c3c;
+}
+
+.destaque{
+    text-align: center;
+    background: #80793c;
+    color: white;
+}

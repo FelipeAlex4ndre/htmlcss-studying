@@ -1,0 +1,24 @@
+Módulo; Desenvolvimento Web II
+Tema: ID e Class, Color e Background
+
+===============================================================
+
+Cores: RGB
+
+RGB
+
+R = red
+G = green
+B = blue
+
+===============================================================
+
+HEX
+ R G B
+#00FF00 = Verde
+
+===============================================================
+
+Tabela Hexadecimal
+0 1 2 3 4 5 6 7 8 9
+A B C D E F 
