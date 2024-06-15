@@ -9,3 +9,8 @@ h1{
 p{
     color: rgb(209, 209, 225)
 }
+
+.fundo{
+    height: 100px;
+    background-color: gray;
+}
