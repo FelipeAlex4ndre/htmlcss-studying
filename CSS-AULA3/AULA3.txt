@@ -1,0 +1,33 @@
+Tema: Desenvolvimento WEB I
+Border, margin, padding, width e height
+==========================================================
+Border:
+
+solid
+dotted
+dashed
+double
+groove
+ridge
+inset
+outset 
+none
+hidden
+
+==========================================================
+margin distancia elementos
+
+
+ordem margin:
+
+cima direita  baixo  esquerda
+top   right   bottom  left
+
+==========================================================
+
+padding: preenchimento de um elemento
+
+width = largura
+height = altura
+
+==========================================================

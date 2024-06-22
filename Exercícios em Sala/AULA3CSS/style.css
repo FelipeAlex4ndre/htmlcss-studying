@@ -1,0 +1,29 @@
+body{
+    background: rgb(88, 32, 32);
+}
+
+h1{
+    text-align: center;
+    background: rgb(160, 31, 31);
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin: 50px 80px 50px 80px;
+    padding: 50px;
+}
+
+.img{
+    margin: 50px 100px 50px 100px;
+    width: 500px;
+    height: 500px;
+}
+
+h2{
+    color: gray;
+}
+
+p{
+    color: white;
+    margin-bottom: 70px;
+    margin-left: 25px;
+}
