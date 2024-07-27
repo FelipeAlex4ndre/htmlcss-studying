@@ -1,1 +1,5 @@
 TEMA: Propriedades Text, Font e Estilização de links
+
+blogger.com
+wordpress.com
+https://alledesenvolvimento.pythonanywhere.com/usuarios/cadastro/ - domínio "pythonanywhere"
