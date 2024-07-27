@@ -1,17 +1,109 @@
+/* PROPRIEDADE TEXT'S 
 h1 {
     text-align: center;
+    text-transform: capitalize;
+    letter-spacing: -2px;
 }
+
 
 p {
     text-align: justify;
-    direction: rtl;
-    unicode-bidi: bidi-override;
-    text-decoration: line-through;
+    text-indent: 25px;
+    word-spacing: 15px;
 }
 
 a {
     text-decoration: none;
 }
+*/
+
+/* PROPRIEDADES FONT'S
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Indie+Flower&family=Noto+Sans+KR:wght@100..900&display=swap');
+
+body {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+}
 
 
+p {
+    text-align: justify;
+    text-indent: 25px;
+    font-family: "Indie Flower", cursive;
+    font-weight: 800;
+}
+
+a {
+    text-decoration: none;
+}*/
+
+body {
+    background-color: gray;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+}
+
+
+p {
+    text-align: justify;
+    text-indent: 25px;
+    font-family: "Indie Flower", cursive;
+    font-weight: 800;
+}
+
+
+a.botao1{
+    background: darkgreen;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid greenyellow;
+    border-radius: 7px;
+}
+
+a.botao1:hover{
+    background: rgb(148, 226, 148);
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    border: 2px solid greenyellow;
+    border-radius: 7px;
+}
+
+a.botao2{
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid blue;
+    border-radius: 7px;
+    color: blue;
+}
+
+a.botao2:hover{
+    padding: 10px;
+    text-decoration: underline;
+    border: none;
+    color: blue;
+}
+
+a.botao3{
+    color: black;
+    text-decoration: none;
+}
+
+a.botao3:hover{
+    color: red;
+    text-decoration: none;
+    border-bottom: 1px solid black;
+    
+}
 
