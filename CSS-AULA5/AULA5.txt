@@ -1,0 +1,20 @@
+TEMA: Propriedade display, max-width e position
+
+Display
+
+block; inline; none; inline-block
+
+Ex de tags do tipo block
+
+- div
+- h1
+- p
+- form
+- header
+- footer
+- section
+
+EX de tags do tipo inline
+
+- a
+- span
