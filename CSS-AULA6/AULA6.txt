@@ -1,0 +1,10 @@
+TEMA: Max-width, Position, 
+
+
+Position
+
+- Static
+- Relative
+- Fixed
+- Absolute
+- Sticky
