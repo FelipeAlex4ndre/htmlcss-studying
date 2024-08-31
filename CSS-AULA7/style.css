@@ -6,3 +6,17 @@
     float: left;
     margin-right: 20px;
 }
+
+ul {
+    background: black;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    
+}
+
+li a {
+    color: white;
+}
