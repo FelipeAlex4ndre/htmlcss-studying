@@ -2,6 +2,7 @@ Tema: Overflow e float
 
 Atalhos
 div.(nome class)
+shift alt seta baixo
 
 Parâmetros do Overflow
 Visible
