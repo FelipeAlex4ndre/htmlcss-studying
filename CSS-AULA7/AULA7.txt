@@ -1,0 +1,10 @@
+Tema: Overflow e float
+
+Atalhos
+div.(nome class)
+
+Parâmetros do Overflow
+Visible
+Hidden
+Scroll
+Auto
