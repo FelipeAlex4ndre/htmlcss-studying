@@ -9,3 +9,14 @@ Visible
 Hidden
 Scroll
 Auto
+
+
+
+
+
+
+
+
+alterem a fonte do texto. 
+titulos precisam ser diferentes dos parágrafos
+criem um rodapé na página
