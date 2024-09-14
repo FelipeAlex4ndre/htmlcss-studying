@@ -1,0 +1,18 @@
+.botao{
+    text-decoration: none;
+    background: green;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.botao:hover {
+    opacity: 0.9;
+}
+
+.transparente{
+    background: blue;
+    color: white;
+    padding: 40px;
+    opacity: 0.5;    
+}
