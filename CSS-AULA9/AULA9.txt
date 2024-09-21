@@ -1,7 +1,9 @@
 Tema: Especificidade
 Regra Important
+Efeito GradienteS
 Sombras
 
+=============================================================================
 
 3 maneiras de criar estilos CSS
 
@@ -9,11 +11,19 @@ Sombras
 - CSS Interno
 - CSS Externo
 
-Hierarquia:
+Hierarquia de arquivos (Se os 3 utilizam o mesmos seletor ou mesma classe):
 1° CSS Inline
 2° CSS Externo
 3° CSS Interno
 
 Hierarquia de Seletores:
-1° Class
-2° Seletor
+1° ID
+2° Seletor e classe
+3° Class
+4° Seletor
+
+=============================================================================
+
+2 tipos de GradienteS
+linear-Gradiente
+radial-gradiente
