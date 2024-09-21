@@ -8,3 +8,8 @@ Sombras
 - CSS Inline
 - CSS Interno
 - CSS Externo
+
+Hierarquia:
+1° CSS Inline
+2° CSS Externo
+3° CSS Interno
