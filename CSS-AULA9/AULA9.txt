@@ -13,3 +13,7 @@ Hierarquia:
 1° CSS Inline
 2° CSS Externo
 3° CSS Interno
+
+Hierarquia de Seletores:
+1° Class
+2° Seletor
