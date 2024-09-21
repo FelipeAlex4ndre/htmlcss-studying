@@ -1,0 +1,10 @@
+Tema: Especificidade
+Regra Important
+Sombras
+
+
+3 maneiras de criar estilos CSS
+
+- CSS Inline
+- CSS Interno
+- CSS Externo
