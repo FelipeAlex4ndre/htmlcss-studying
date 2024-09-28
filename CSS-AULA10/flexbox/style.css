@@ -1,8 +1,11 @@
 .flex-pai {
+    height: 600px;
     background: blue;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .flex-pai div {
