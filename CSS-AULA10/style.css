@@ -1,8 +1,16 @@
+h2 {
+    color: white;
+    font-size: 14px;
+}
+
 /* Smartphones (600px p/ baixo)*/
 @media only screen and (max-width: 600px) {
     body{
         background: blue;
-        color: white;
+    }
+
+    h2{
+        font-size: 22px;
     }
 }
 
@@ -10,7 +18,6 @@
 @media only screen and (min-width: 600px) {
     body{
         background: green;
-        color: white;
     }
 }
 
@@ -25,7 +32,10 @@
 @media only screen and (min-width: 992px) {
     body{
         background: red;
-        color: white;
+    }
+
+    .exemplo{
+        display: none;
     }
 }
 
