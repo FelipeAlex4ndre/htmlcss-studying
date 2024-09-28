@@ -1,0 +1,37 @@
+/* Smartphones (600px p/ baixo)*/
+@media only screen and (max-width: 600px) {
+    body{
+        background: blue;
+        color: white;
+    }
+}
+
+/* Dispositivos um pouco maiores, mas ainda pequenos (600px p/ cima)*/
+@media only screen and (min-width: 600px) {
+    body{
+        background: green;
+        color: white;
+    }
+}
+
+/* Dispositivos médios (768px p/ cima)*/
+@media only screen and (min-width: 768px) {
+    body{
+        background: yellow;
+    }
+}
+
+/* Dispositivos largos (laptops, desktops, 992px p/ cima)*/
+@media only screen and (min-width: 992px) {
+    body{
+        background: red;
+        color: white;
+    }
+}
+
+/* Dispositivos super largos (desktops, TVs, 1200px p/ cima)*/
+@media only screen and (min-width: 1200px) {
+    body{
+        background: violet;
+    }
+}
